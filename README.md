@@ -25,7 +25,7 @@
 In this study, I have focused on demonstrating global and Asian inflation rates for 2022 and then visualize them using the following techniques:
   1. Choropleth Map
   2. Geographical Scatter Plot
-In addition to <s>plotly<s>, I used Python libraries such as Pandas and json to complete the task
+In addition to <em>plotly</em>, I used Python libraries such as <em>Pandas</em> and <em>json</em> to complete the task
 
 ## Data description 
 The dataset contains yearly inflation rates of 2022 and 2023 of 196 countries. Dataset was extracted from International Monetary Fund website.
